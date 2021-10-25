@@ -1,0 +1,1 @@
+Calculation of Elementary Growth Modes (EGMs) and Elementary Growth Vectors (EGVs) for a small model of a self-fabricating cell.
